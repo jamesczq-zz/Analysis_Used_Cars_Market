@@ -1,0 +1,475 @@
+2014 Dodge Grand Caravan SE	$9,999	99,252 miles	Minivan 	Black 	6 Cyl 
+2014 Dodge Avenger SE	$6,495	102,034 miles	Sedan 	Black 	4 Cyl 
+2016 Jeep Wrangler Sahara	$33,688	15,674 miles	SUV 	Red 	6 Cyl 
+2011 BMW 3 Series 328i	$10,966	100,273 miles	Convertible 	Silver 	6 Cyl 
+2015 Ford Explorer XLT	$24,983	23,640 miles	SUV 	White 	6 Cyl 
+2013 Nissan Juke NISMO	$12,917	34,662 miles	SUV 	Black 	4 Cyl 
+2015 Ford F-250 XLT	$41,999	59,829 miles	Pickup 	White 	8 Cyl 
+2017 GMC Sierra 1500 SLT	$37,688	11,811 miles	Pickup 	Black 	8 Cyl 
+2017 Chevrolet Cruze LS	$12,988	23,276 miles	Sedan 	Silver 	4 Cyl 
+2016 Ford Mustang GT	$26,455	14,231 miles	Coupe 	Yellow 	8 Cyl 
+2015 Lincoln MKC	$18,982	58,492 miles	SUV 	Black 	4 Cyl 
+2011 Honda Pilot EXL	$11,259	133,295 miles	SUV 	Gray 	6 Cyl 
+2015 Dodge Challenger SXT	$17,998	41,904 miles	Coupe 	Black 	6 Cyl 
+2016 Kia Rio LX	$9,997	15,450 miles	Sedan 	White 	4 Cyl 
+2013 Chevrolet Suburban 1500 LT	$23,995	79,457 miles	SUV 	Black 	8 Cyl 
+2015 Toyota 4Runner Limited Edition	$31,888	46,599 miles	SUV 	Silver 	6 Cyl 
+2016 Chevrolet Trax LS	$13,695	14,124 miles	SUV 	Red 	4 Cyl 
+2015 Chevrolet Suburban LT	$41,884	25,192 miles	SUV 	Black 	8 Cyl 
+2016 Lincoln MKC Reserve	$27,966	8,138 miles	SUV 	Silver 	4 Cyl 
+2016 GMC Sierra 1500 SLE	$29,995	10,914 miles	Pickup 	Red 	8 Cyl 
+2015 Mercedes-Benz C-Class C 250	$23,995	20,773 miles	Coupe 	Black 	4 Cyl 
+2015 Ford F-150 Lariat	$38,499	22,823 miles	Pickup 	Brown 	8 Cyl 
+2015 Chevrolet Tahoe LTZ	$41,995	50,095 miles	SUV 	Beige 	8 Cyl 
+2016 Kia Optima SX	$22,982	11,484 miles	Sedan 	Black 	4 Cyl 
+2016 Mitsubishi Outlander Sport SEL	$16,992	15,086 miles	SUV 	Silver 	4 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2012 Honda Civic	$4,999	64,402 miles	Sedan 	Gray 	4 Cyl 
+2007 Chevrolet Tahoe LTZ	$10,999	133,856 miles	SUV 	Black 	8 Cyl 
+2008 Honda Accord EXL	$4,999	124,078 miles	Sedan 	Gray 	6 Cyl 
+2016 Nissan Altima SR	$11,999	39,360 miles	Sedan 	Black 	4 Cyl 
+2007 Hummer H3 Adventure	$9,999	117,373 miles	SUV 	Black 	5 Cyl 
+2014 Nissan Maxima SV	$10,999	87,958 miles	Sedan 	Black 	6 Cyl 
+2016 Nissan Altima SR	$11,999	41,361 miles	Sedan 	Gray 	4 Cyl 
+2015 Nissan Altima S	$8,995	57,027 miles	Sedan 	Gray 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2015 Infiniti Q50	$17,995	60,258 miles	Sedan 	Black 	6 Cyl 
+2014 Maserati Ghibli S Q4	$32,995	29,446 miles	Sedan 	Black 	6 Cyl 
+2015 Nissan Rogue SV	$10,995	52,400 miles	SUV 	Blue 	4 Cyl 
+2014 Maserati GranTurismo Sport	$54,995	20,645 miles	Coupe 	Gray 	8 Cyl 
+2015 Nissan Altima SL	$8,995	93,326 miles	Sedan 	Black 	4 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2012 Honda Civic	$4,999	64,402 miles	Sedan 	Gray 	4 Cyl 
+2016 Nissan Altima SR	$11,999	39,360 miles	Sedan 	Black 	4 Cyl 
+2008 Honda Accord EXL	$4,999	124,078 miles	Sedan 	Gray 	6 Cyl 
+2007 Chevrolet Tahoe LTZ	$10,999	133,856 miles	SUV 	Black 	8 Cyl 
+2007 Hummer H3 Adventure	$9,999	117,373 miles	SUV 	Black 	5 Cyl 
+2014 Nissan Maxima SV	$10,999	87,958 miles	Sedan 	Black 	6 Cyl 
+2016 Nissan Altima SR	$11,999	41,361 miles	Sedan 	Gray 	4 Cyl 
+2015 Nissan Altima S	$8,995	57,027 miles	Sedan 	Gray 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2014 Maserati GranTurismo Sport	$54,995	20,645 miles	Coupe 	Gray 	8 Cyl 
+2015 Infiniti Q50	$17,995	60,258 miles	Sedan 	Black 	6 Cyl 
+2013 Infiniti G37	$13,995	43,018 miles	Sedan 	Black 	6 Cyl 
+2014 Maserati Ghibli S Q4	$32,995	29,446 miles	Sedan 	Black 	6 Cyl 
+2015 Nissan Rogue SV	$10,995	52,400 miles	SUV 	Blue 	4 Cyl 
+2013 Ford Taurus Police Interceptor	$7,995	105,846 miles	Sedan 	Black 	6 Cyl 
+2013 Volkswagen Tiguan S	$13,499	21,813 miles	SUV 	Silver 	4 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$33,984	36,353 miles	SUV 	Black 	6 Cyl 
+2015 Toyota Corolla S	$13,221	34,777 miles	Sedan 	Gray 	4 Cyl 
+2015 Subaru Outback 3.6R Limited	$27,000	18,780 miles	Wagon 	White 	6 Cyl 
+2015 BMW 3 Series 328i xDrive	$19,495	62,937 miles	Sedan 	Blue 	4 Cyl 
+2015 Volkswagen Passat Sport	$14,941	33,449 miles	Sedan 	White 	4 Cyl 
+2015 Audi A6 2.0T	$25,794	44,118 miles	Sedan 	Black 	4 Cyl 
+2014 Toyota Sienna LE	$17,985	50,429 miles	Minivan 	Black 	6 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$34,982	32,926 miles	SUV 	Black 	6 Cyl 
+2015 Chevrolet Colorado Z71	$27,499	21,125 miles	Pickup 	Black 	6 Cyl 
+2016 Nissan Murano Platinum	$30,900	10,082 miles	SUV 	Black 	6 Cyl 
+2014 Ford Escape Titanium	$17,587	55,915 miles	SUV 	Green 	4 Cyl 
+2017 Dodge Charger SE	$21,717	8,380 miles	Sedan 	Gray 	6 Cyl 
+2017 Cadillac Escalade ESV	$65,539	17,272 miles	SUV 	White 	8 Cyl 
+2015 Volkswagen Jetta SEL	$14,890	24,382 miles	Sedan 	Black 	4 Cyl 
+2015 Audi A6 2.0T	$26,890	28,337 miles	Sedan 	Gray 	4 Cyl 
+2014 Volkswagen Jetta S	$8,800	37,709 miles	Sedan 	White 	4 Cyl 
+2015 Mercedes-Benz GLK 350	$32,981	15,889 miles	SUV 	White 	6 Cyl 
+2015 Audi Q5 Premium	$27,850	30,557 miles	SUV 	Black 	4 Cyl 
+2016 Chevrolet Silverado 1500 LT	$29,995	20,366 miles	Pickup 	Silver 	8 Cyl 
+2015 Mini Cooper	$14,849	22,974 miles	Hatchback 	Red 	3 Cyl 
+2015 Toyota Corolla S	$11,497	48,069 miles	Sedan 	White 	4 Cyl 
+2015 Audi S5	$32,554	35,350 miles	Coupe 	Red 	6 Cyl 
+2015 Lexus RX 350	$30,000	23,264 miles	SUV 	Black 	6 Cyl 
+2015 Nissan Altima S	$8,995	57,027 miles	Sedan 	Gray 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2014 Mercedes-Benz CLA 250	$17,490	30,724 miles	Sedan 	Black 	4 Cyl 
+2013 Nissan Murano LE	$15,998	63,000 miles	SUV 	White 	6 Cyl 
+2015 Nissan Altima SL	$8,995	93,326 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue SV	$10,995	52,400 miles	SUV 	Blue 	4 Cyl 
+2014 Nissan Maxima SV	$11,995	67,788 miles	Sedan 	White 	6 Cyl 
+2013 Infiniti G37	$13,995	43,018 miles	Sedan 	Black 	6 Cyl 
+2014 Maserati GranTurismo Sport	$54,995	20,645 miles	Coupe 	Gray 	8 Cyl 
+2014 Maserati Ghibli S Q4	$32,995	29,446 miles	Sedan 	Black 	6 Cyl 
+2015 Infiniti Q50	$17,995	60,258 miles	Sedan 	Black 	6 Cyl 
+2015 BMW 5 Series 535i xDrive	$23,490	51,319 miles	Sedan 	Black 	6 Cyl 
+2015 Audi A5 Premium Plus	$24,490	30,543 miles	Coupe 	Black 	4 Cyl 
+2016 Toyota Camry SE	$12,490	46,718 miles	Sedan 	Black 	4 Cyl 
+2016 Toyota Camry SE	$13,990	18,184 miles	Sedan 	Black 	4 Cyl 
+2012 Audi A7 Premium Plus	$25,890	50,824 miles	Hatchback 	White 	6 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$24,990	55,071 miles	SUV 	White 	6 Cyl 
+2015 Mercedes-Benz C-Class C 300	$21,490	46,346 miles	Sedan 	Black 	4 Cyl 
+2013 Nissan Juke S	$9,985	41,709 miles	SUV 	Unspecified 	4 Cyl 
+2015 Nissan Pathfinder SV	$15,990	32,068 miles	SUV 	Black 	6 Cyl 
+2015 Acura MDX Technology	$24,860	40,650 miles	SUV 	White 	6 Cyl 
+2014 Infiniti Q50 Sport	$19,995	45,099 miles	Sedan 	Gray 	6 Cyl 
+2014 Nissan Maxima SV	$13,680	48,882 miles	Sedan 	Black 	6 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2012 Honda Civic	$4,999	64,402 miles	Sedan 	Gray 	4 Cyl 
+2016 Nissan Altima SR	$11,999	39,360 miles	Sedan 	Black 	4 Cyl 
+2008 Honda Accord EXL	$4,999	124,078 miles	Sedan 	Gray 	6 Cyl 
+2007 Chevrolet Tahoe LTZ	$10,999	133,856 miles	SUV 	Black 	8 Cyl 
+2007 Hummer H3 Adventure	$9,999	117,373 miles	SUV 	Black 	5 Cyl 
+2014 Nissan Maxima SV	$10,999	87,958 miles	Sedan 	Black 	6 Cyl 
+2016 Nissan Altima SR	$11,999	41,361 miles	Sedan 	Gray 	4 Cyl 
+2015 Nissan Altima S	$8,995	57,027 miles	Sedan 	Gray 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2014 Maserati GranTurismo Sport	$54,995	20,645 miles	Coupe 	Gray 	8 Cyl 
+2015 Infiniti Q50	$17,995	60,258 miles	Sedan 	Black 	6 Cyl 
+2013 Infiniti G37	$13,995	43,018 miles	Sedan 	Black 	6 Cyl 
+2014 Maserati Ghibli S Q4	$32,995	29,446 miles	Sedan 	Black 	6 Cyl 
+2015 Nissan Rogue SV	$10,995	52,400 miles	SUV 	Blue 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2014 Mercedes-Benz CLA 250	$17,490	30,724 miles	Sedan 	Black 	4 Cyl 
+2013 Nissan Murano LE	$15,998	63,000 miles	SUV 	White 	6 Cyl 
+2012 Audi A7 Premium Plus	$25,890	50,824 miles	Hatchback 	White 	6 Cyl 
+2015 Audi A5 Premium Plus	$24,490	30,543 miles	Coupe 	Black 	4 Cyl 
+2015 Mercedes-Benz C-Class C 300	$21,490	46,346 miles	Sedan 	Black 	4 Cyl 
+2016 Toyota Camry SE	$12,490	46,718 miles	Sedan 	Black 	4 Cyl 
+2016 Toyota Camry SE	$13,990	18,184 miles	Sedan 	Black 	4 Cyl 
+2015 BMW 5 Series 535i xDrive	$23,490	51,319 miles	Sedan 	Black 	6 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$24,990	55,071 miles	SUV 	White 	6 Cyl 
+2013 Nissan Juke S	$9,985	41,709 miles	SUV 	Unspecified 	4 Cyl 
+2016 Chevrolet Traverse LT	$18,890	40,456 miles	SUV 	Gray 	6 Cyl 
+2014 Jeep Grand Cherokee Laredo	$17,860	40,995 miles	SUV 	Gray 	6 Cyl 
+2014 Infiniti Q50 Premium	$17,680	37,743 miles	Sedan 	White 	6 Cyl 
+2015 Nissan Pathfinder SV	$15,990	32,068 miles	SUV 	Black 	6 Cyl 
+2015 Acura MDX Technology	$24,860	40,650 miles	SUV 	White 	6 Cyl 
+2014 Infiniti Q50 Sport	$19,995	45,099 miles	Sedan 	Gray 	6 Cyl 
+2014 Nissan Maxima SV	$13,680	48,882 miles	Sedan 	Black 	6 Cyl 
+2015 Mercedes-Benz GLA 250	$20,590	32,025 miles	SUV 	Black 	4 Cyl 
+2014 Maserati Ghibli S Q4	$31,490	31,162 miles	Sedan 	Black 	6 Cyl 
+2015 Acura ILX	$13,475	24,086 miles	Sedan 	White 	4 Cyl 
+2015 Honda Accord EXL	$14,890	40,251 miles	Sedan 	Black 	4 Cyl 
+2015 Acura MDX Technology	$23,780	40,566 miles	SUV 	Gray 	6 Cyl 
+2006 Mazda Mazda3	$3,999	172,821 miles	Sedan 	Silver 	4 Cyl 
+2007 Toyota Camry	$6,588	130,970 miles	Sedan 	Gray 	4 Cyl 
+2004 Ford Explorer	$4,999	94,447 miles	SUV 	White 	6 Cyl 
+2005 Honda Civic LX	$4,599	177,191 miles	Sedan 	Silver 	4 Cyl 
+2009 Ford Escape XLT	$4,999	188,629 miles	SUV 	Gray 	6 Cyl 
+2010 Nissan Altima	$6,599	127,831 miles	Sedan 	Gray 	4 Cyl 
+2015 Nissan Versa	$7,950	65,016 miles	Sedan 	Gray 	4 Cyl 
+2009 Nissan Maxima	$7,954	145,563 miles	Sedan 	Black 	6 Cyl 
+2008 Lincoln MKZ	$7,980	68,952 miles	Sedan 	Gold 	6 Cyl 
+2006 Nissan Quest	$4,932	166,884 miles	Minivan 	Gray 	6 Cyl 
+2012 Honda Accord Crosstour EXL	$9,995	122,449 miles	SUV 	Gray 	6 Cyl 
+2005 Volvo XC90 T6	$6,995	97,466 miles	SUV 	Gray 	6 Cyl 
+2017 Chevrolet Silverado 1500 LT	$34,988	3,605 miles	Pickup 	White 	8 Cyl 
+2014 Volkswagen Jetta S	$8,600	33,787 miles	Sedan 	Black 	4 Cyl 
+2015 Volkswagen Tiguan S	$12,900	29,289 miles	SUV 	Gray 	4 Cyl 
+2016 Chevrolet Colorado LT	$25,988	25,110 miles	Pickup 	White 	6 Cyl 
+2015 Lexus IS 250	$24,995	24,738 miles	Sedan 	Silver 	6 Cyl 
+2014 Dodge Dart SXT	$10,495	35,920 miles	Sedan 	Blue 	4 Cyl 
+2015 BMW X5 xDrive35i	$34,999	43,121 miles	SUV 	White 	6 Cyl 
+2012 Mercedes-Benz CLS 550	$31,985	37,652 miles	Sedan 	Silver 	8 Cyl 
+2015 Infiniti Q50 Premium	$23,879	13,075 miles	Sedan 	White 	6 Cyl 
+2016 GMC Sierra 1500 Denali	$36,995	43,474 miles	Pickup 	Black 	8 Cyl 
+2016 Chevrolet Cruze LT	$12,495	62,118 miles	Sedan 	White 	4 Cyl 
+2014 Toyota Sienna LE	$20,686	28,174 miles	Minivan 	Green 	6 Cyl 
+2016 Volkswagen Passat SE	$16,000	16,766 miles	Sedan 	Beige 	4 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2015 Nissan Altima S	$9,890	15,542 miles	Sedan 	White 	4 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2016 Honda Civic LX	$12,980	14,247 miles	Sedan 	White 	4 Cyl 
+2015 Toyota Corolla S	$9,880	44,463 miles	Sedan 	Silver 	4 Cyl 
+2016 Honda Civic LX	$11,890	27,635 miles	Sedan 	White 	4 Cyl 
+2015 Jeep Cherokee Limited Edition	$16,890	46,951 miles	SUV 	White 	6 Cyl 
+2015 Toyota Venza LE	$12,980	46,214 miles	Wagon 	White 	4 Cyl 
+2015 Audi A6 2.0T	$22,980	31,501 miles	Sedan 	Black 	4 Cyl 
+2016 Nissan Maxima SR	$20,895	25,428 miles	Sedan 	White 	6 Cyl 
+2015 Toyota RAV4 LE	$14,980	24,367 miles	SUV 	Silver 	4 Cyl 
+2015 Jeep Cherokee Trailhawk	$19,980	55,740 miles	SUV 	Gray 	6 Cyl 
+2015 Toyota RAV4 LE	$15,490	17,569 miles	SUV 	Gray 	4 Cyl 
+2015 Jeep Cherokee Limited Edition	$17,490	32,780 miles	SUV 	Gray 	6 Cyl 
+2016 Honda Civic LX	$12,980	18,671 miles	Sedan 	Gray 	4 Cyl 
+2015 Acura ILX Technology	$14,480	26,631 miles	Sedan 	Black 	4 Cyl 
+2015 Acura ILX Technology	$14,480	20,514 miles	Sedan 	White 	4 Cyl 
+2013 Infiniti G37	$13,890	47,851 miles	Sedan 	Black 	6 Cyl 
+2004 Toyota 4Runner SR5	$6,699	164,989 miles	SUV 	Gray 	6 Cyl 
+2009 Volkswagen Routan SEL	$5,999	110,148 miles	Van 	Blue 	6 Cyl 
+2006 Toyota Highlander	$6,500	137,461 miles	SUV 	Silver 	4 Cyl 
+2014 Dodge Grand Caravan SE	$9,999	99,252 miles	Minivan 	Black 	6 Cyl 
+2014 Dodge Avenger SE	$6,495	102,034 miles	Sedan 	Black 	4 Cyl 
+2017 Hyundai Santa Fe Limited Edition	$29,500	13,352 miles	SUV 	Gray 	6 Cyl 
+2015 Toyota 4Runner Limited Edition	$31,888	46,599 miles	SUV 	Silver 	6 Cyl 
+2016 Chevrolet Trax LS	$13,695	14,124 miles	SUV 	Red 	4 Cyl 
+2015 Chevrolet Suburban LT	$41,884	25,192 miles	SUV 	Black 	8 Cyl 
+2016 Ford Explorer XLT	$24,900	33,126 miles	SUV 	Black 	6 Cyl 
+2016 Lincoln MKC Reserve	$27,966	8,138 miles	SUV 	Silver 	4 Cyl 
+2016 GMC Sierra 1500 SLE	$29,995	10,914 miles	Pickup 	Red 	8 Cyl 
+2015 Chevrolet Tahoe LTZ	$41,995	50,095 miles	SUV 	Beige 	8 Cyl 
+2015 Mercedes-Benz C-Class C 250	$23,995	20,773 miles	Coupe 	Black 	4 Cyl 
+2015 Dodge Challenger SXT	$18,591	26,109 miles	Coupe 	Red 	6 Cyl 
+2015 Ford Explorer Sport	$31,500	27,983 miles	SUV 	White 	6 Cyl 
+2016 Ford Escape SE	$16,562	20,705 miles	SUV 	Gray 	4 Cyl 
+2017 Ford F-250 XL	$36,800	3,992 miles	Pickup 	Red 	8 Cyl 
+2015 Toyota Camry LE	$15,914	22,005 miles	Sedan 	Silver 	4 Cyl 
+2016 Chevrolet Cruze LTZ	$15,995	13,520 miles	Sedan 	Gray 	4 Cyl 
+2015 Ford F-150 Lariat	$38,499	22,823 miles	Pickup 	Brown 	8 Cyl 
+2013 Lexus GS 350	$22,438	44,829 miles	Sedan 	Black 	6 Cyl 
+2014 Volvo XC60 T6	$24,906	30,345 miles	SUV 	Silver 	6 Cyl 
+2014 Ford Focus SE	$9,491	53,004 miles	Hatchback 	Black 	4 Cyl 
+2014 Volkswagen Passat S	$10,875	56,201 miles	Sedan 	Black 	4 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2015 Nissan Altima S	$9,890	15,542 miles	Sedan 	White 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2016 Honda Civic LX	$12,980	14,247 miles	Sedan 	White 	4 Cyl 
+2015 Toyota Corolla S	$9,880	44,463 miles	Sedan 	Silver 	4 Cyl 
+2016 Honda Civic LX	$11,890	27,635 miles	Sedan 	White 	4 Cyl 
+2015 Jeep Cherokee Limited Edition	$16,890	46,951 miles	SUV 	White 	6 Cyl 
+2015 Toyota RAV4 LE	$15,490	17,569 miles	SUV 	Gray 	4 Cyl 
+2016 Nissan Maxima SR	$20,895	25,428 miles	Sedan 	White 	6 Cyl 
+2015 Toyota Venza LE	$12,980	46,214 miles	Wagon 	White 	4 Cyl 
+2015 Toyota RAV4 LE	$14,980	24,367 miles	SUV 	Silver 	4 Cyl 
+2015 Audi A6 2.0T	$22,980	31,501 miles	Sedan 	Black 	4 Cyl 
+2015 Jeep Cherokee Trailhawk	$19,980	55,740 miles	SUV 	Gray 	6 Cyl 
+2015 Jeep Cherokee Limited Edition	$17,490	32,780 miles	SUV 	Gray 	6 Cyl 
+2016 Honda Civic LX	$12,980	18,671 miles	Sedan 	Gray 	4 Cyl 
+2015 Acura ILX Technology	$14,480	26,631 miles	Sedan 	Black 	4 Cyl 
+2013 Infiniti G37	$13,890	47,851 miles	Sedan 	Black 	6 Cyl 
+2015 Acura ILX Technology	$14,480	20,514 miles	Sedan 	White 	4 Cyl 
+2006 Honda Element EX-P	$5,995	153,950 miles	SUV 	Black 	4 Cyl 
+2011 Subaru Outback 2.5i	$8,995	137,790 miles	Wagon 	Silver 	4 Cyl 
+2008 Volvo V70	$6,995	129,000 miles	Wagon 	White 	6 Cyl 
+2003 Chevrolet Monte Carlo LS	$4,995	60,000 miles	Coupe 	Blue 	6 Cyl 
+2004 Ford Mustang	$5,495	83,928 miles	Coupe 	Gray 	6 Cyl 
+2006 GMC Sierra 1500 SLE	$6,995	204,503 miles	Pickup 	White 	8 Cyl 
+2011 Ford Fiesta SE	$5,400	81,816 miles	Hatchback 	Silver 	4 Cyl 
+2012 Audi A4 2.0T	$10,990	102,029 miles	Sedan 	White 	4 Cyl 
+2010 Ford Fusion Sport	$8,750	70,151 miles	Sedan 	Silver 	6 Cyl 
+2008 Toyota Highlander Sport	$9,950	158,685 miles	SUV 	White 	6 Cyl 
+2009 Ford Focus SE	$4,995	72,135 miles	Coupe 	Silver 	4 Cyl 
+2008 Honda Civic Si	$7,995	121,425 miles	Coupe 	Red 	4 Cyl 
+2002 Acura TL Type S	$5,895	106,996 miles	Sedan 	Silver 	6 Cyl 
+2012 Chevrolet Corvette	$20,990	99,409 miles	Coupe 	Silver 	8 Cyl 
+2012 Honda CR-V EXL	$16,995	38,452 miles	SUV 	Silver 	4 Cyl 
+2014 Toyota Corolla LE	$13,392	34,934 miles	Sedan 	Gray 	4 Cyl 
+2015 BMW 5 Series 528i	$26,694	36,521 miles	Sedan 	Black 	4 Cyl 
+2015 Toyota Corolla S	$14,995	28,465 miles	Sedan 	White 	4 Cyl 
+2016 Buick Encore Base	$16,291	12,252 miles	SUV 	White 	4 Cyl 
+2015 BMW 3 Series 328i xDrive	$20,995	46,319 miles	Sedan 	Black 	4 Cyl 
+2016 Nissan Juke S	$14,998	22,849 miles	SUV 	Red 	4 Cyl 
+2014 Toyota Prius v Five	$19,995	20,527 miles	Wagon 	Black 	4 Cyl 
+2015 Toyota Corolla LE	$13,992	18,980 miles	Sedan 	Gray 	4 Cyl 
+2015 BMW 5 Series 528i	$26,995	34,609 miles	Sedan 	Black 	4 Cyl 
+2015 BMW 4 Series 428i	$23,995	45,504 miles	Coupe 	White 	4 Cyl 
+2014 Kia Soul Base	$6,495	146,145 miles	Wagon 	White 	4 Cyl 
+2013 Honda CR-V LX	$10,995	111,032 miles	SUV 	Black 	4 Cyl 
+2008 Mazda Mazda3 s Sport	$5,999	105,681 miles	Hatchback 	Black 	4 Cyl 
+2003 Toyota RAV4 Base	$5,299	134,054 miles	SUV 	Gold 	4 Cyl 
+2005 Acura MDX Touring	$6,499	127,255 miles	SUV 	Turquoise 	6 Cyl 
+2015 Lexus RX 350	$26,991	41,495 miles	SUV 	Black 	6 Cyl 
+2015 Mini Cooper	$13,499	22,933 miles	Hatchback 	White 	3 Cyl 
+2014 Ford Escape SE	$14,487	27,934 miles	SUV 	Silver 	4 Cyl 
+2015 Ford Fiesta S	$9,499	12,217 miles	Sedan 	Silver 	4 Cyl 
+2015 GMC Acadia SLE	$20,555	20,705 miles	SUV 	Blue 	6 Cyl 
+2016 Lexus NX 200t	$30,998	13,072 miles	SUV 	Blue 	4 Cyl 
+2015 Mercedes-Benz S-Class S 550	$54,898	20,258 miles	Sedan 	Black 	8 Cyl 
+2015 Volkswagen Tiguan SE	$16,998	41,678 miles	SUV 	Silver 	4 Cyl 
+2015 Chevrolet Cruze LS	$10,487	17,272 miles	Sedan 	White 	4 Cyl 
+2015 Jeep Wrangler Sahara	$32,499	26,136 miles	SUV 	Black 	6 Cyl 
+2015 Audi Q3 Premium Plus	$26,496	17,769 miles	SUV 	Gray 	4 Cyl 
+2015 Nissan Altima S	$12,499	28,778 miles	Sedan 	Gray 	4 Cyl 
+2016 Land Rover Range Rover	$74,986	23,048 miles	SUV 	Black 	6 Cyl 
+2016 Toyota Corolla S	$16,488	17,633 miles	Sedan 	Gray 	4 Cyl 
+2017 Toyota Corolla XLE	$15,950	15,990 miles	Sedan 	Red 	4 Cyl 
+2015 Volkswagen Jetta S	$11,812	26,194 miles	Sedan 	White 	4 Cyl 
+2015 Ford Fusion Titanium	$16,499	20,949 miles	Sedan 	Gray 	4 Cyl 
+2016 Toyota Camry SE	$15,999	15,681 miles	Sedan 	White 	4 Cyl 
+2017 Dodge Durango SXT	$25,739	11,338 miles	SUV 	White 	6 Cyl 
+2014 Audi Q5 Premium	$28,395	27,043 miles	SUV 	Gray 	4 Cyl 
+2014 Kia Soul Base	$6,495	146,145 miles	Wagon 	White 	4 Cyl 
+2013 Honda CR-V LX	$10,995	111,032 miles	SUV 	Black 	4 Cyl 
+2008 Mazda Mazda3 s Sport	$5,999	105,681 miles	Hatchback 	Black 	4 Cyl 
+2003 Toyota RAV4 Base	$5,299	134,054 miles	SUV 	Gold 	4 Cyl 
+2005 Acura MDX Touring	$6,499	127,255 miles	SUV 	Turquoise 	6 Cyl 
+2006 BMW 5 Series 530i	$7,995	89,501 miles	Sedan 	Gray 	6 Cyl 
+2011 Infiniti EX35	$13,995	70,849 miles	SUV 	Silver 	6 Cyl 
+2009 Chevrolet Suburban 1500 LTZ	$12,995	163,495 miles	SUV 	White 	8 Cyl 
+2014 Toyota Prius v Three	$16,950	25,297 miles	Wagon 	White 	4 Cyl 
+2014 Toyota Prius v Three	$16,950	31,481 miles	Wagon 	Silver 	4 Cyl 
+2014 Ford Explorer Base	$17,888	40,278 miles	SUV 	White 	6 Cyl 
+2017 Toyota Corolla XLE	$15,950	15,990 miles	Sedan 	Red 	4 Cyl 
+2015 Hyundai Santa Fe Sport	$16,389	21,373 miles	SUV 	White 	4 Cyl 
+2014 Lexus RX 350	$29,284	24,384 miles	SUV 	Gray 	6 Cyl 
+2015 Ford Fusion Titanium	$16,499	20,949 miles	Sedan 	Gray 	4 Cyl 
+2016 Toyota Camry SE	$15,999	15,681 miles	Sedan 	White 	4 Cyl 
+2017 Dodge Durango SXT	$25,739	11,338 miles	SUV 	White 	6 Cyl 
+2014 Audi Q5 Premium	$28,395	27,043 miles	SUV 	Gray 	4 Cyl 
+2015 Toyota Corolla LE	$14,517	15,331 miles	Sedan 	Red 	4 Cyl 
+2016 Dodge Journey Crossroad	$18,876	23,993 miles	SUV 	Black 	6 Cyl 
+2015 Toyota Corolla S	$14,980	27,390 miles	Sedan 	Gray 	4 Cyl 
+2017 Toyota RAV4 LE	$20,900	9,596 miles	SUV 	Red 	4 Cyl 
+2016 Toyota Corolla L	$14,567	25,812 miles	Sedan 	White 	4 Cyl 
+2013 BMW 3 Series 335i	$16,995	74,751 miles	Coupe 	Black 	6 Cyl 
+2015 Toyota Camry SE	$15,997	34,136 miles	Sedan 	Gray 	4 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2012 Honda Civic	$4,999	64,402 miles	Sedan 	Gray 	4 Cyl 
+2014 Nissan Maxima SV	$10,999	87,958 miles	Sedan 	Black 	6 Cyl 
+2007 Chevrolet Tahoe LTZ	$10,999	133,856 miles	SUV 	Black 	8 Cyl 
+2007 Hummer H3 Adventure	$9,999	117,373 miles	SUV 	Black 	5 Cyl 
+2016 Nissan Altima SR	$11,999	41,361 miles	Sedan 	Gray 	4 Cyl 
+2016 Nissan Altima SR	$11,999	39,360 miles	Sedan 	Black 	4 Cyl 
+2008 Honda Accord EXL	$4,999	124,078 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Altima S	$8,995	57,027 miles	Sedan 	Gray 	4 Cyl 
+2014 Jeep Grand Cherokee Limited Edition	$20,890	44,007 miles	SUV 	Black 	6 Cyl 
+2015 Ford Explorer XLT	$22,980	42,650 miles	SUV 	White 	6 Cyl 
+2016 Toyota Camry LE	$10,985	35,443 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Altima SL	$8,995	93,326 miles	Sedan 	Black 	4 Cyl 
+2015 Nissan Rogue SV	$10,995	52,400 miles	SUV 	Blue 	4 Cyl 
+2014 Nissan Maxima SV	$11,995	67,788 miles	Sedan 	White 	6 Cyl 
+2013 Infiniti G37	$13,995	43,018 miles	Sedan 	Black 	6 Cyl 
+2014 Maserati GranTurismo Sport	$54,995	20,645 miles	Coupe 	Gray 	8 Cyl 
+2015 Toyota RAV4 XLE	$17,740	33,749 miles	SUV 	White 	4 Cyl 
+2008 Mazda Mazda3 s Sport	$5,999	105,681 miles	Hatchback 	Black 	4 Cyl 
+2003 Toyota RAV4 Base	$5,299	134,054 miles	SUV 	Gold 	4 Cyl 
+2005 Acura MDX Touring	$6,499	127,255 miles	SUV 	Turquoise 	6 Cyl 
+2009 Nissan Versa S	$5,995	44,888 miles	Sedan 	Red 	4 Cyl 
+2008 Hyundai Elantra GLS	$5,995	76,312 miles	Sedan 	Blue 	4 Cyl 
+2006 Honda Pilot EXL	$6,995	140,451 miles	SUV 	Black 	6 Cyl 
+2015 Ford Fusion SE	$10,995	71,654 miles	Sedan 	Black 	4 Cyl 
+2015 Ford Fiesta SE	$8,995	29,964 miles	Sedan 	Silver 	4 Cyl 
+2013 Nissan Sentra S	$6,995	88,316 miles	Sedan 	Gray 	4 Cyl 
+2008 Nissan Altima SL	$5,995	120,066 miles	Sedan 	White 	4 Cyl 
+2006 BMW 5 Series 530i	$7,995	89,501 miles	Sedan 	Gray 	6 Cyl 
+2011 Honda Accord EXL	$8,995	132,380 miles	Coupe 	Black 	4 Cyl 
+2010 Ford Fusion	$6,995	92,006 miles	Sedan 	Silver 	4 Cyl 
+2007 Toyota Highlander	$8,995	98,679 miles	SUV 	Blue 	6 Cyl 
+2011 Infiniti EX35	$13,995	70,849 miles	SUV 	Silver 	6 Cyl 
+2009 Chevrolet Suburban 1500 LTZ	$12,995	163,495 miles	SUV 	White 	8 Cyl 
+2014 Toyota Prius v Three	$16,950	25,297 miles	Wagon 	White 	4 Cyl 
+2014 Toyota Prius v Three	$16,950	31,481 miles	Wagon 	Silver 	4 Cyl 
+2014 Ford Explorer Base	$17,888	40,278 miles	SUV 	White 	6 Cyl 
+2015 Chevrolet Malibu LS	$11,911	42,892 miles	Sedan 	Gray 	4 Cyl 
+2015 Porsche 911	$83,031	3,698 miles	Coupe 	Red 	6 Cyl 
+2015 Mini Cooper	$13,499	22,933 miles	Hatchback 	White 	3 Cyl 
+2014 Ford Escape SE	$14,487	27,934 miles	SUV 	Silver 	4 Cyl 
+2015 Lexus ES 350	$27,994	25,503 miles	Sedan 	White 	6 Cyl 
+2013 Ford Escape SEL	$9,999	95,793 miles	SUV 	Gray 	4 Cyl 
+2015 Nissan Altima S	$9,890	15,542 miles	Sedan 	White 	4 Cyl 
+2007 Infiniti G35	$6,999	112,457 miles	Sedan 	White 	6 Cyl 
+2014 Infiniti Q50 Premium	$18,999	32,808 miles	Sedan 	Black 	6 Cyl 
+2014 Infiniti Q50 Premium	$15,999	87,981 miles	Sedan 	Gray 	6 Cyl 
+2015 Nissan Rogue SV	$12,999	80,263 miles	SUV 	White 	4 Cyl 
+2012 Cadillac CTS Premium	$9,999	106,692 miles	Sedan 	Red 	6 Cyl 
+2016 Toyota Camry XLE	$12,999	44,204 miles	Sedan 	Black 	4 Cyl 
+2013 BMW X5 xDrive35i	$19,999	59,846 miles	SUV 	White 	6 Cyl 
+2015 Nissan Rogue S	$11,999	69,223 miles	SUV 	Gray 	4 Cyl 
+2016 Honda Civic LX	$12,980	14,247 miles	Sedan 	White 	4 Cyl 
+2015 Toyota Corolla S	$9,880	44,463 miles	Sedan 	Silver 	4 Cyl 
+2016 Honda Civic LX	$11,890	27,635 miles	Sedan 	White 	4 Cyl 
+2015 Jeep Cherokee Limited Edition	$16,890	46,951 miles	SUV 	White 	6 Cyl 
+2015 Toyota RAV4 LE	$15,490	17,569 miles	SUV 	Gray 	4 Cyl 
+2015 Audi A6 2.0T	$22,980	31,501 miles	Sedan 	Black 	4 Cyl 
+2015 Toyota RAV4 LE	$14,980	24,367 miles	SUV 	Silver 	4 Cyl 
+2015 Toyota Venza LE	$12,980	46,214 miles	Wagon 	White 	4 Cyl 
+2016 Nissan Maxima SR	$20,895	25,428 miles	Sedan 	White 	6 Cyl 
+2015 Jeep Cherokee Trailhawk	$19,980	55,740 miles	SUV 	Gray 	6 Cyl 
+2015 Jeep Cherokee Limited Edition	$17,490	32,780 miles	SUV 	Gray 	6 Cyl 
+2016 Honda Civic LX	$12,980	18,671 miles	Sedan 	Gray 	4 Cyl 
+2015 Acura ILX Technology	$14,480	26,631 miles	Sedan 	Black 	4 Cyl 
+2013 Infiniti G37	$13,890	47,851 miles	Sedan 	Black 	6 Cyl 
+2015 Acura ILX Technology	$14,480	20,514 miles	Sedan 	White 	4 Cyl 
+2007 Chevrolet TrailBlazer LS	$5,100	54,021 miles	SUV 	Blue 	6 Cyl 
+2003 BMW X5 3.0i	$4,995	113,868 miles	SUV 	Black 	6 Cyl 
+2013 Ford Taurus Police Interceptor	$7,995	105,846 miles	Sedan 	Black 	6 Cyl 
+2014 Ford Focus SE	$8,874	18,909 miles	Sedan 	Silver 	4 Cyl 
+2015 Nissan Rogue S	$14,100	29,165 miles	SUV 	Red 	4 Cyl 
+2016 Chrysler 300 C	$20,000	40,300 miles	Sedan 	Gray 	6 Cyl 
+2015 BMW 3 Series 328i xDrive	$18,700	33,669 miles	Sedan 	Unspecified 	4 Cyl 
+2015 Volkswagen Passat SEL	$13,800	29,425 miles	Sedan 	Black 	4 Cyl 
+2015 BMW X1 sDrive28i	$17,800	30,339 miles	SUV 	White 	4 Cyl 
+2015 Buick Regal Premium	$14,900	39,652 miles	Sedan 	Silver 	4 Cyl 
+2015 Volkswagen Tiguan SE	$14,800	26,235 miles	SUV 	Black 	4 Cyl 
+2014 Jeep Cherokee Latitude	$15,000	32,895 miles	SUV 	White 	6 Cyl 
+2017 Chrysler Pacifica Touring-L	$26,000	7,675 miles	Minivan 	White 	6 Cyl 
+2017 Mercedes-Benz GLC 300	$39,982	13,110 miles	SUV 	Black 	4 Cyl 
+2016 Mazda CX-9 Touring	$30,995	9,799 miles	SUV 	White 	4 Cyl 
+2015 Mercedes-Benz GLA 250	$26,483	17,909 miles	SUV 	Silver 	4 Cyl 
+2015 Toyota Avalon XLE	$22,980	33,783 miles	Sedan 	Gray 	4 Cyl 
+2015 Toyota Corolla S	$11,497	48,069 miles	Sedan 	White 	4 Cyl 
+2015 Mercedes-Benz C-Class C 250	$23,980	12,613 miles	Coupe 	White 	4 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$36,982	21,504 miles	SUV 	Black 	6 Cyl 
+2010 Volkswagen Touareg	$11,995	73,467 miles	SUV 	Unspecified 	6 Cyl 
+2015 Mercedes-Benz M-Class ML 350	$34,982	32,926 miles	SUV 	Black 	6 Cyl 
+2017 Jeep Renegade Latitude	$16,143	11,211 miles	SUV 	White 	4 Cyl 
+2017 Dodge Charger SE	$21,717	8,380 miles	Sedan 	Gray 	6 Cyl 
+2014 Kia Sedona LX	$11,995	48,789 miles	Minivan 	Silver 	6 Cyl 
+2015 Ford Edge SE	$18,995	26,200 miles	SUV 	Silver 	6 Cyl 
+2015 Buick Enclave Convenience	$23,995	23,202 miles	SUV 	Silver 	6 Cyl 
+2013 Ford Expedition XLT	$24,995	28,676 miles	SUV 	Silver 	8 Cyl 
+2014 Ford Edge SE	$15,995	42,723 miles	SUV 	White 	6 Cyl 
+2013 Chevrolet Camaro LT	$16,989	37,213 miles	Coupe 	White 	6 Cyl 
+2016 Kia Forte LX	$10,300	38,623 miles	Sedan 	White 	4 Cyl 
+2013 Ford Edge SEL	$12,995	95,912 miles	SUV 	Gray 	6 Cyl 
+2013 Hyundai Elantra Limited Edition	$8,600	90,801 miles	Sedan 	Silver 	4 Cyl 
+2015 Kia Optima LX	$12,400	41,532 miles	Sedan 	White 	4 Cyl 
+2012 Jeep Patriot Latitude	$8,989	82,316 miles	SUV 	Gray 	4 Cyl 
+2017 Ford Mustang	$22,995	9,223 miles	Coupe 	Blue 	4 Cyl 
+2014 Nissan Altima SL	$11,999	56,422 miles	Sedan 	Red 	4 Cyl 
+2014 Ford Focus SE	$10,995	37,967 miles	Hatchback 	Silver 	4 Cyl 
+2014 Toyota RAV4 LE	$15,995	52,066 miles	SUV 	Gray 	4 Cyl 
+2016 Toyota Tundra SR5	$32,995	40,682 miles	Pickup 	Silver 	8 Cyl 
+2015 Buick Encore Premium	$15,995	20,448 miles	SUV 	Brown 	4 Cyl 
+2017 Chevrolet Trax LT	$17,995	1,837 miles	SUV 	Silver 	4 Cyl 
+2017 Chevrolet Camaro LT	$21,995	5,691 miles	Coupe 	Blue 	4 Cyl 
+2014 Hyundai Sonata GLS	$11,977	47,664 miles	Sedan 	Black 	4 Cyl 
+2017 GMC Sierra 1500 SLT	$37,995	60,220 miles	Pickup 	White 	8 Cyl 
+2017 Ford Mustang	$21,995	277 miles	Coupe 	Silver 	6 Cyl 
+2015 Toyota Corolla	$12,595	50,913 miles	Sedan 	Silver 	4 Cyl 
+2015 Buick Verano Premium	$14,889	33,710 miles	Sedan 	Gray 	4 Cyl 
+2010 Ford Expedition Limited	$16,989	127,595 miles	SUV 	Black 	8 Cyl 
+2015 Toyota Corolla L	$12,995	49,169 miles	Sedan 	Black 	4 Cyl 
